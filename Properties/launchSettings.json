@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "doc_pdf_graph_conversion_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7164",
+      "launchBrowser": false
+    }
+  }
+}
